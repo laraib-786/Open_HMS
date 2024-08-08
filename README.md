@@ -3,6 +3,35 @@
 
 DOCUMENTATION
 
+**Project Overview:**
+
+**About Open_HMS:**
+
+In our Open_HMS Project focuses mainly on dealing with the hospital records.WeCare Management System will help doctors to create their personal accounts.Here,Multiple Doctors can register on the website with their details and Multiple patients can take appointment for a specific doctor.Here Doctor can create prescription by adding,updating or deleting medicines on the day he wants.All this will be maintained and stored in the system.
+
+**Doctor Dashboard:**
+
+Our WeCare Management System have the feature of Signup and Login where a Doctor who have visited our site can register themselves by providing their Name, unique username, Mobile number, Department and their address.
+
+  Registered Doctor’s can see their details like profile picture and name.He can also see the number of patient that are under his observation and his own department.
+  
+  Doctor can see the patient’s details that are under him by just searching with the help of the patiemt ID.
+  
+  Doctor can add prescription for every patient and can also view the older prescriptions history of the patient.He can also Create,Update nad Delete multiple medicines in the prescription.                            
+  
+  
+**Patient Dashboard:**
+
+Same as Doctor’s Dashboard Feature,here Patient can also register themselves by providing their basic details like name,username,mobile number and addresss and can choose the doctor name & department to whom they want to visit.
+      
+  Patient can see the details of the doctor to whom he is referred to like doctor contact number and the department of the doctor along with the symptoms of the patient.Patient can also update their summary.
+  
+  Under Patient summary section, patient can see his/her details and doctor he/she is referred to along with details that were taken during his registration like Disease and Symptoms, Allergy, Immunization taken or not, is there any history of illness and the diagnostic results.
+  
+  Patient dashboard,Patient can see the doctor whom he is referred to,his necessary contact details  patient can  see all prescriptions along with previous prescription that are prescribed in which details include Date, Medication Item, Frequency, Dose, Dose unit, Direction Duration, Form, Additional Instructions and Substance.
+
+
+
 
 **INSTALLATION**
 
@@ -59,30 +88,3 @@ Password: 123
         ◦ Post checkout: Post job cleanup
         ◦ Complete Job: Cleaning up orphan processes
         
-**Project Overview:**
-
-**About Open_HMS:**
-
-In our Open_HMS Project focuses mainly on dealing with the hospital records.WeCare Management System will help doctors to create their personal accounts.Here,Multiple Doctors can register on the website with their details and Multiple patients can take appointment for a specific doctor.Here Doctor can create prescription by adding,updating or deleting medicines on the day he wants.All this will be maintained and stored in the system.
-
-**Doctor Dashboard:**
-
-Our WeCare Management System have the feature of Signup and Login where a Doctor who have visited our site can register themselves by providing their Name, unique username, Mobile number, Department and their address.
-
-  Registered Doctor’s can see their details like profile picture and name.He can also see the number of patient that are under his observation and his own department.
-  
-  Doctor can see the patient’s details that are under him by just searching with the help of the patiemt ID.
-  
-  Doctor can add prescription for every patient and can also view the older prescriptions history of the patient.He can also Create,Update nad Delete multiple medicines in the prescription.                            
-  
-  
-**Patient Dashboard:**
-
-Same as Doctor’s Dashboard Feature,here Patient can also register themselves by providing their basic details like name,username,mobile number and addresss and can choose the doctor name & department to whom they want to visit.
-      
-  Patient can see the details of the doctor to whom he is referred to like doctor contact number and the department of the doctor along with the symptoms of the patient.Patient can also update their summary.
-  
-  Under Patient summary section, patient can see his/her details and doctor he/she is referred to along with details that were taken during his registration like Disease and Symptoms, Allergy, Immunization taken or not, is there any history of illness and the diagnostic results.
-  
-  Patient dashboard,Patient can see the doctor whom he is referred to,his necessary contact details  patient can  see all prescriptions along with previous prescription that are prescribed in which details include Date, Medication Item, Frequency, Dose, Dose unit, Direction Duration, Form, Additional Instructions and Substance.
-
